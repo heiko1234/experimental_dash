@@ -1,7 +1,7 @@
 import dash
 from dash import html, dcc
 
-from utilities.app_cards import (
+from app.utilities.app_cards import (
     mini_card,
     content_card
 )
